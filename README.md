@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ExhaustedApes/coffee-maker/assets/118164288/df066a8c-c4c5-4c19-a6e1-78baf0e43f7e" width="300">
 
-##### We are Gachon Univ. students.
+##### 
 ##### This project is for 2024 MP term project.
 ##### Since 2024/03 ~
 
